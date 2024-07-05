@@ -1,8 +1,8 @@
 # Meditazione, compassione e gestione emozionale per le professioni di aiuto
 
-## CORSO DI PERFEZIONAMENTO POST-LAUREA
+**CORSO DI PERFEZIONAMENTO POST-LAUREA**
 
-### A.A. 2024/2025
+**A.A. 2024/2025 (terza edizione)**
 
 ```{warning}
 - Scadenza consegna domanda di iscrizione al Corso: **15/01/2025**
@@ -31,6 +31,8 @@ Il formato del corso avrà un carattere spiccatamente esperienziale in modo da c
 Il corso è rivolto a persone interessate a migliorare le proprie competenze dell’ambito delle relazioni di aiuto e delle capacità empatiche. In quest’ottica la conoscenza dei processi emotivi e della metodologia di gestione delle emozioni viene promossa e sviluppata in funzione delle capacità relazionali individuali.
 
 ## Social
+
+Il Corso di Perfezionamento è presente sulle principali piattaforme social. Sulle nostre pagine social puoi trovare curiosità, informazioni sul Corso e testimonianze degli ex-allievi.
 
 [Facebook](https://www.facebook.com/profile.php?id=100076063716374)
 
