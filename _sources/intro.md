@@ -1,8 +1,8 @@
 # Meditazione, compassione e gestione emozionale per le professioni di aiuto
 
-## CORSO DI PERFEZIONAMENTO POST-LAUREA
+**CORSO DI PERFEZIONAMENTO POST-LAUREA**
 
-### A.A. 2024/2025
+**A.A. 2024/2025 (terza edizione)**
 
 ```{warning}
 - Scadenza consegna domanda di iscrizione al Corso: **15/01/2025**
