@@ -32,7 +32,7 @@ Il corso è rivolto a persone interessate a migliorare le proprie competenze del
 
 ## Social
 
-Sulle nostre pagine social puoi trovare curiosità, informazioni sul Corso e testimonianze degli ex-allievi.
+Il Corso di Perfezionamento è presente sulle principali piattaforme social. Sulle nostre pagine social puoi trovare curiosità, informazioni sul Corso e testimonianze degli ex-allievi.
 
 [Facebook](https://www.facebook.com/profile.php?id=100076063716374)
 
