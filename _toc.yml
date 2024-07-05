@@ -5,4 +5,5 @@ format: jb-book
 root: intro
 chapters:
   - file: programma
+  - file: domande_frequenti
   - file: approfondimenti
