@@ -32,7 +32,7 @@ Il corso è rivolto a persone interessate a migliorare le proprie competenze del
 
 ## Social
 
-[FaceBook](https://www.facebook.com/profile.php?id=100076063716374)
+[Facebook](https://www.facebook.com/profile.php?id=100076063716374)
 
 [Instagram](https://www.instagram.com/mindfulness_method?igsh=MTBvZHFlZmhoazN5Ng%3D%3D&utm_source=qr)
 
