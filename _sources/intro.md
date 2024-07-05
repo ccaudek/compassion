@@ -30,6 +30,16 @@ Il formato del corso avrà un carattere spiccatamente esperienziale in modo da c
 
 Il corso è rivolto a persone interessate a migliorare le proprie competenze dell’ambito delle relazioni di aiuto e delle capacità empatiche. In quest’ottica la conoscenza dei processi emotivi e della metodologia di gestione delle emozioni viene promossa e sviluppata in funzione delle capacità relazionali individuali.
 
+## Social
+
+[FaceBook](https://www.facebook.com/profile.php?id=100076063716374)
+
+[Instagram](https://www.instagram.com/mindfulness_method?igsh=MTBvZHFlZmhoazN5Ng%3D%3D&utm_source=qr)
+
+[LinkedIn](https://www.linkedin.com/in/meditazione-compassione-e-gestione-emozionale-per-le-professioni-di-aiuto-04a972214/)
+
+## Altri materiali
+
 ```{tableofcontents}
 
 ```
