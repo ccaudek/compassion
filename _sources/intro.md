@@ -32,6 +32,8 @@ Il corso è rivolto a persone interessate a migliorare le proprie competenze del
 
 ## Social
 
+Sulle nostre pagine social puoi trovare curiosità, informazioni sul Corso e testimonianze degli ex-allievi.
+
 [Facebook](https://www.facebook.com/profile.php?id=100076063716374)
 
 [Instagram](https://www.instagram.com/mindfulness_method?igsh=MTBvZHFlZmhoazN5Ng%3D%3D&utm_source=qr)
