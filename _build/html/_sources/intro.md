@@ -1,41 +1,29 @@
 # Meditazione, compassione e gestione emozionale per le professioni di aiuto
 
-**CORSO DI PERFEZIONAMENTO POST-LAUREA**
+**CORSO DI PERFEZIONAMENTO POST-LAUREA (III edizione)**
 
-**A.A. 2024/2025 (terza edizione)**
+**A.A. 2024/2025**
 
 ```{warning}
 
 - *Tipologia Corso:* online e in presenza in formato residenziale (Venerdì pomeriggio-Domenica fino
 all’ora di pranzo)
-
 - *Sito web:*  https://ccaudek.github.io/compassion/intro.html
-
 - *Posti disponibili:* 30, iscrizione in ordine di arrivo
-
 - *Durata del corso:* sei incontri di cui tre residenziali da venerdì a domenica
-
 - *Periodo di svolgimento:* **Marzo-Maggio 2025**
-
 - *Modalità didattica:* lezioni frontali, sedute di meditazione, confronti e discussioni di gruppo,
 esercizi esperienziali.
-
 - *Lingua:* Italiano
-
 - *Frequenza:* obbligatoria, è possibile una sola assenza, ai fini del diploma del corso. Il corso eroga 8
 CFU.
-
 - *Sede del corso:* Firenze presso università in formato online, Istituto Lama Tzong Khapa di Pomaia
 (Pisa)
-
 - *Scadenza presentazione domande di ammissione:* 15 Gennaio 2025. Non si consiglia di aspettare
 per iscriversi, i posti sono limitati
-
 - *Modalità di selezione:*  in ordine di iscrizione
-
 - *Quota di partecipazione:* 800 euro. A parte si deve pagare l’alloggio e il pranzo presso l’Istituto
 dai costi molto economici. Essendo Istituto buddhista i pasti sono vegetariani (anche per vegani).
-
 - *Agevolazioni/borse di studio:* I costi coprono l’affitto dei locali di Pomaia e il pagamento docenti
 e sono quindi molto contenuti. Per questo motivo non è possibile offrire borse di studio.
 Per informazioni: ilaria.colpizzi@unifi.it
