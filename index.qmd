@@ -1,5 +1,5 @@
 ---
-title: "Meditazione, Compassione e Gestione Emozionale per le Professioni di Aiuto"
+title: "Corso di Perfezionamento Post-Laurea"
 image: "logo.jpeg"
 execute: 
   echo: false
@@ -9,6 +9,7 @@ about:
   image-shape: round
 ---
 
+### Meditazione, Compassione e Gestione Emozionale per le Professioni di Aiuto
 
 Il Corso intende proporre un modello della mente e del funzionamento emotivo che ha origine nella tradizione della psicologia buddista e vuole offrire strumenti metodologici e operativi per la pratica professionale e clinica dello psicologo e dell’operatore sanitario.
 
