@@ -1,0 +1,1 @@
+Sitemap: https://github.com/ccaudek/compassion/sitemap.xml

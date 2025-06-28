@@ -1,0 +1,15 @@
+---
+title: "Meditazione, Compassione e Gestione Emozionale per le Professioni di Aiuto"
+image: "logo.jpeg"
+execute: 
+  echo: false
+  warning: false
+about:
+  template: trestles
+  image-shape: round
+---
+
+
+Il Corso intende proporre un modello della mente e del funzionamento emotivo che ha origine nella tradizione della psicologia buddista e vuole offrire strumenti metodologici e operativi per la pratica professionale e clinica dello psicologo e dell’operatore sanitario.
+
+
