@@ -10,6 +10,7 @@ project:
     - "info_docenti.qmd"
     - "programma.qmd"
     - "approfondimenti.qmd"
+    - "domande_frequenti.qmd"
     - "404.qmd"
   resources:
     - "content/"
@@ -42,6 +43,8 @@ website:
         href: programma.qmd
       - text: "Approfondimenti"
         href: approfondimenti.qmd
+      - text: "Domande Frequenti"
+        href: domande_frequenti.qmd
   page-footer:
     center:
       - text: |
