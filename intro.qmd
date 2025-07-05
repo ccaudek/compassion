@@ -5,29 +5,79 @@ toc: true
 toc-location: left
 ---
 
-::: {.callout-tip}
-## Informazioni
+::: {.callout-tip}  
 
-- **Meditazione, Compassione e Gestione Emozionale per le Professioni di Aiuto**
-- **Anno Accademico 2025/2026**, IV edizione, Università degli Studi di Firenze
-- **Tipologia Corso:** Online e in presenza in formato residenziale (venerdì pomeriggio--domenica fino all’ora di pranzo).
-- **Sito web:** [https://ccaudek.github.io/compassion/intro.html](https://ccaudek.github.io/compassion/intro.html)
-:::
+#### 🌿 **Meditazione, Compassione e Gestione Emozionale per le Professioni di Aiuto**
 
-::: {.callout-note}
-- **Posti disponibili:** 25, iscrizione in ordine di arrivo.
-- **Durata del corso:** Sei incontri di cui tre residenziali da venerdì a domenica.
-- **Periodo di svolgimento:** *Marzo-Aprile 2026*
-- **Modalità didattica:** Lezioni frontali, sedute di meditazione, confronti e discussioni di gruppo, esercizi esperienziali.
-- **Lingua:** Italiano.
-- **Frequenza:** Obbligatoria, è possibile una sola assenza, ai fini del diploma del corso. Il corso verrà accreditato per 48 crediti ECM.  Il numero esatto di crediti ECM potrà subire lievi variazioni in conformità con le procedure previste dal sistema nazionale di accreditamento, trattandosi del primo inserimento del Corso nella piattaforma. L'accreditamento definitivo sarà formalizzato successivamente alla chiusura delle iscrizioni. 
-- **Sede del corso:** Firenze presso università in formato online, Istituto Lama Tzong Khapa di Pomaia (Pisa).
-- **Scadenza presentazione domande di ammissione:** 30 novembre 2025. Non si consiglia di aspettare per iscriversi, i posti sono limitati.
-- **Modalità di selezione:** In ordine di iscrizione.
-- **Quota di partecipazione:** 900 euro. A parte si deve pagare la tessera di iscrizione all'Istituto (20 euro), l’alloggio e il pranzo presso l’Istituto (dai costi molto economici). Essendo Istituto buddhista i pasti sono vegetariani (anche per vegani).
-- **Agevolazioni/borse di studio:** I costi coprono l’affitto dei locali di Pomaia e il pagamento docenti e sono quindi molto contenuti. Per questo motivo non è possibile offrire borse di studio.
-- **Per informazioni:** [perfezionamento.meditazione@dss.unifi.it](mailto:perfezionamento.meditazione@dss.unifi.it)
-:::
+- **🏛 Istituzione:** Università degli Studi di Firenze  
+- **📅 Anno Accademico:** 2025/2026 (IV Edizione)  
+- **🎯 Modalità:**  
+  - **💻 Online** (piattaforma universitaria)  
+  - **🏡 Residenziale** (3 weekend intensivi: venerdì pomeriggio → domenica pranzo)  
+- **🌐 Maggiori informazioni:**  
+  [Sito ufficiale del corso](https://ccaudek.github.io/compassion/intro.html)  
+
+:::  
+
+::: {.callout-note}  
+
+#### Informazioni generali sul corso 
+
+- **📌 Posti disponibili:** 25 (iscrizioni aperte fino a esaurimento posti).  
+- **📅 Periodo:** Marzo-Aprile 2026.  
+- **⏳ Durata:** 6 incontri totali (di cui 3 residenziali, da venerdì a domenica).  
+- **📍 Sede:**  
+  - **Online** (Firenze, tramite piattaforma universitaria).  
+  - **In presenza** (Istituto Lama Tzong Khapa, Pomaia - Pisa).  
+- **📝 Modalità didattica:**  
+  - Lezioni frontali  
+  - Meditazioni guidate  
+  - Esercizi esperienziali  
+  - Discussioni di gruppo  
+
+
+#### Requisiti e certificazioni  
+
+- **🗣 Lingua:** Italiano.  
+- **✅ Frequenza:** Obbligatoria (massimo 1 assenza consentita per il diploma).  
+- **📜 Crediti ECM:**  
+  - Previsti **48 crediti** (il numero definitivo sarà confermato dopo l'accreditamento ufficiale, in quanto si tratta della prima edizione).  
+
+
+#### Iscrizioni  
+
+- **⏰ Scadenza domande:** 30 novembre 2025.  
+- **🔍 Selezione:** Ordine cronologico di iscrizione.  
+- **❗ Consiglio:** Posti limitati, si raccomanda di non posticipare l'iscrizione.  
+
+
+#### Contatti.  
+
+Per ulteriori informazioni:  
+📧 [perfezionamento.meditazione@dss.unifi.it](mailto:perfezionamento.meditazione@dss.unifi.it)  
+
+:::  
+
+
+::: {.callout-caution}
+
+## Quota di partecipazione
+
+La quota di partecipazione è di **900 euro**.  
+
+#### Costi aggiuntivi:  
+- **Tessera di iscrizione all'Istituto**: 20 euro (obbligatoria)  
+- **Alloggio e pranzo presso l'Istituto**: a costi molto contenuti  
+
+#### Informazioni utili:  
+- **Pasti**: L'Istituto serve **esclusivamente pasti vegetariani**, con opzioni anche per vegani.  
+- **Destinazione dei fondi**: I ricavi coprono l'affitto dei locali di Pomaia e il compenso dei docenti, mantenendo i costi accessibili.  
+
+#### Nota sulle borse di studio:  
+Purtroppo, **non è possibile offrire borse di studio** per questa edizione.  
+
+:::  
+
 
 ## Descrizione
 
