@@ -9,14 +9,13 @@ toc-location: left
 
 #### 🌿 **Meditazione, Compassione e Gestione Emozionale per le Professioni di Aiuto**
 
-- **🏛 Istituzione:** Università degli Studi di Firenze  
+- **🏛 Istituzione:** Università degli Studi di Firenze e Istituto Lama Tzong Khapa 
 - **📅 Anno Accademico:** 2025/2026 (IV Edizione)  
-- **🎯 Modalità:**  
-  - **💻 Online** (piattaforma universitaria)  
-  - **🏡 Residenziale** (3 weekend intensivi: venerdì pomeriggio → domenica pranzo)  
-- **🌐 Maggiori informazioni:**  
-  [Sito ufficiale del corso](https://ccaudek.github.io/compassion/intro.html)  
+- **🎯 Sede:**  
+  - **💻 Online** (Firenze, tramite piattaforma universitaria)  
+  - **🏡 In presenza** (Istituto Lama Tzong Khapa, Pomaia - Pisa)  
 
+Corso organizzato nell'ambito della collaborazione tra l'Università degli Studi di Firenze e l’Istituto Lama Tzong Khapa.
 :::  
 
 ::: {.callout-note}  
