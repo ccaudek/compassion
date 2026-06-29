@@ -10,7 +10,7 @@ Hai qualche dubbio? Consulta le nostre domande frequenti.
 
 **Quali documenti vengono rilasciati al termine del Corso?**
 
-Attestato di partecipazione universitario e attestazione dei crediti ECM acquisiti.
+Attestato di partecipazione universitario.
 
 **Come possono essere utilizzate le competenze acquisite nel Corso nella tua attività professionale?**
 
@@ -26,6 +26,7 @@ Attestato di partecipazione universitario e attestazione dei crediti ECM acquisi
     del burnout.
     
     5. Sviluppo Umano e Mentale: Oltre alle applicazioni specifiche nel contesto professionale, le competenze acquisite contribuiscono significativamente al vostro sviluppo umano e mentale generale. La pratica regolare della meditazione e delle tecniche contemplative può portare a:
+    
     - Miglioramento della Qualità della Vita: Riduzione dello stress quotidiano, maggiore equilibrio emotivo e un senso di pace interiore.
     - Crescita Personale: Sviluppo di una maggiore autoconsapevolezza, compassione per sé stessi e per gli altri, e un approccio più riflessivo alla vita.
     - Miglioramento delle Capacità Cognitive: Aumento della capacità di concentrazione, chiarezza mentale e capacità di prendere decisioni ponderate.
@@ -51,13 +52,10 @@ Alcuni materiali didattici utilizzati sono messi a disposizione su questo sito w
 
 **Quali verifiche di apprendimento sono previste?**
 
-La verifica dell’apprendimento si articolerà in due fasi complementari:
+La verifica dell’apprendimento si articolerà nella seguente attività:
 
-1. **Attività in presenza**
+**Attività in presenza**
    Durante il corso, ciascun partecipante – o piccoli gruppi, in base al numero di iscritti – sarà invitato a elaborare un piano personale di applicazione delle conoscenze acquisite, con riferimento sia alla propria attività professionale sia alla sfera personale. Questo piano sarà poi presentato al gruppo e discusso collegialmente, con il contributo sia dei partecipanti sia dei docenti, in un’ottica di apprendimento collaborativo e riflessivo.
-
-2. **Verifica finale online per i crediti ECM**
-   Ai fini dell’accreditamento ECM, è prevista una verifica dell’apprendimento tramite un questionario a risposta multipla, somministrato in modalità online. Questa prova è conforme agli standard richiesti dal sistema ECM nazionale.
 
 **Come si raggiunge Pomaia?**
 
@@ -74,5 +72,11 @@ Su richiesta all'Istituto è possibile prenotare una navetta da Rosignano a Poma
 *Negli anni passati, sono stati spesso organizzati gruppi per condividere il viaggio in auto.*
 
 GPS 43.430514 10.558944
+
+
+**Perché il corso non rilascia crediti ECM?** 
+
+Il Corso non rilascia crediti ECM al fine di contenere i costi.
+
 
 
