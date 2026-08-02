@@ -1,21 +1,16 @@
 ---
-execute: 
-  echo: false
-  message: false
-  warning: false
+title: "Pagina non trovata"
+toc: false
+page-layout: full
+search: false
 ---
 
-:::float-left
+::: {.home-section .narrow style="text-align: center; padding-top: 6rem;"}
+<div class="eyebrow" style="color: var(--course-primary); border-color: var(--course-line); background: var(--course-primary-soft);">Errore 404</div>
 
-<br>
-<center>
-<img src="404-hippo.png" width=350>
-</center>
+# Questa pagina non è disponibile
 
-# Whoops!
+Il collegamento potrebbe essere stato modificato oppure la pagina potrebbe non esistere più.
 
-### The requested page does not exist 😔
-
-<br>
-
+[Potrebbe interessarti la home](index.qmd){.btn .btn-primary .btn-lg} [Consulta il programma](programma.qmd){.btn .btn-outline-primary .btn-lg}
 :::

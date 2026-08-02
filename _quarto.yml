@@ -13,64 +13,109 @@ project:
     - "domande_frequenti.qmd"
     - "404.qmd"
   resources:
+    - "images/"
+    - "materials/"
     - "content/"
-    - "css"
-    - "splitkbcompare.html"
     - "static/"
+    - "logo.jpeg"
+    - "ILTK-Logo.jpg"
+    - "robots.txt"
+
+lang: it
 
 website:
-  title: "Home"
-  description: "Corso di Perfezionamento Post-Laurea"
-  image: logo.jpeg
-  site-url: https://github.com/ccaudek/compassion
-  favicon: images/favicon.ico
-  repo-url: https://github.com/ccaudek/compassion
+  title: "Meditazione, Compassione e Gestione Emozionale"
+  description: "Corso di Perfezionamento Post-Laurea per le professioni di aiuto, organizzato dall'Università degli Studi di Firenze e dall'Istituto Lama Tzong Khapa."
+  site-url: "https://ccaudek.github.io/compassion/"
+  image: "logo.jpeg"
+  favicon: "images/favicon.ico"
+  repo-url: "https://github.com/ccaudek/compassion"
+  google-analytics: "G-K1F64JCQ7Q"
   search:
     location: navbar
     type: overlay
-  back-to-top-navigation: false
-  google-analytics: "G-K1F64JCQ7Q"
+    limit: 12
+    collapse-after: 3
   open-graph:
-    locale: es_ES
-    site-name: https://github.com/ccaudek/compassionß
+    locale: it_IT
+    site-name: "Meditazione, Compassione e Gestione Emozionale"
+  twitter-card:
+    card-style: summary_large_image
+  announcement:
+    icon: calendar-check
+    dismissable: true
+    content: "**V edizione 2026/2027** · 25 posti · domande entro il 15 gennaio 2027"
+    type: primary
+    position: below-navbar
   navbar:
+    title: "Meditazione e Compassione"
+    pinned: true
+    collapse-below: lg
+    background: "#123f3c"
+    foreground: light
     left:
-      - text: "Informazioni"
+      - text: "Home"
+        href: index.qmd
+      - text: "Il corso"
         href: intro.qmd
-      - text: "Docenti"
-        href: info_docenti.qmd
       - text: "Programma"
         href: programma.qmd
-      - text: "Approfondimenti"
-        href: approfondimenti.qmd
-      - text: "Domande Frequenti"
-        href: domande_frequenti.qmd
+      - text: "Docenti"
+        href: info_docenti.qmd
+      - text: "Risorse"
+        menu:
+          - text: "Approfondimenti"
+            href: approfondimenti.qmd
+          - text: "Domande frequenti"
+            href: domande_frequenti.qmd
+    tools:
+      - icon: facebook
+        href: "https://www.facebook.com/profile.php?id=100076063716374"
+        aria-label: "Pagina Facebook del corso"
+      - icon: instagram
+        href: "https://www.instagram.com/mindfulness_method"
+        aria-label: "Profilo Instagram del corso"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/meditazione-compassione-e-gestione-emozionale-per-le-professioni-di-aiuto-04a972214/"
+        aria-label: "Profilo LinkedIn del corso"
+  page-navigation: true
+  back-to-top-navigation: true
   page-footer:
-    center:
-      - text: |
-          Site made with <i class='bi bi-heart-fill'></i>, 
-          <a href='https://github.com/ccaudek/' target='_blank'><i class='bi bi-git'></i></a>, 
-          and <a href='https://quarto.org/' target='_blank'><img src='https://quarto.org/favicon.png' width=12> quarto</a>
-          <br>
-          © 2025 Corrado Caudek
+    border: true
+    left: |
+      **Corso di Perfezionamento Post-Laurea**  
+      Università degli Studi di Firenze · Istituto Lama Tzong Khapa
+    center: |
+      [perfezionamento.meditazione@dss.unifi.it](mailto:perfezionamento.meditazione@dss.unifi.it)
+    right:
+      - text: "© 2026 Corrado Caudek"
+      - icon: github
+        href: "https://github.com/ccaudek/compassion"
+        aria-label: "Codice sorgente su GitHub"
 
 format:
   html:
     theme:
-      - simplex
-      - theme.scss
-    mainfont: Palatino
-    linkcolor: "#dc2828"
-    grid:
-      sidebar-width: 300px
-      body-width: 723px
-      margin-width: 300px
-    code-copy: false
-    code-fold: true
-    lightbox: true
-    anchor-sections: false
+      light: [flatly, theme.scss]
+      dark: [darkly, theme-dark.scss]
+    toc: true
+    toc-location: right
+    toc-title: "In questa pagina"
+    toc-depth: 3
+    smooth-scroll: true
+    respect-user-color-scheme: true
+    anchor-sections: true
+    link-external-icon: true
     link-external-newwindow: true
-    date-format: long
-    execute:
-      warning: false
-      message: false
+    code-copy: false
+    code-fold: false
+    lightbox: true
+    grid:
+      body-width: 860px
+      margin-width: 280px
+      gutter-width: 2.5rem
+
+execute:
+  echo: false
+  warning: false
+  message: false

@@ -1,0 +1,830 @@
+:root {
+  --course-ink: #173e3b;
+  --course-muted: #5d6d69;
+  --course-surface: #ffffff;
+  --course-surface-soft: #f1f5f1;
+  --course-line: #dce4df;
+  --course-accent: #b65c43;
+  --course-accent-soft: #f8e9e3;
+  --course-primary: #176b66;
+  --course-primary-deep: #123f3c;
+  --course-primary-soft: #e5f2f0;
+  --course-shadow: 0 18px 50px rgba(23, 62, 59, 0.10);
+  --course-shadow-soft: 0 8px 28px rgba(23, 62, 59, 0.08);
+}
+
+body.quarto-dark {
+  --course-ink: #eff6f3;
+  --course-muted: #b7c5c1;
+  --course-surface: #182220;
+  --course-surface-soft: #1d2a27;
+  --course-line: #31423e;
+  --course-accent: #ef9a7e;
+  --course-accent-soft: #3a2824;
+  --course-primary: #74c9c1;
+  --course-primary-deep: #0b2d2b;
+  --course-primary-soft: #193a36;
+  --course-shadow: 0 18px 50px rgba(0, 0, 0, 0.30);
+  --course-shadow-soft: 0 8px 28px rgba(0, 0, 0, 0.22);
+}
+
+html {
+  scroll-padding-top: 6.5rem;
+}
+
+body {
+  max-width: 100%;
+  overflow-x: clip;
+  letter-spacing: -0.005em;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+p, li {
+  max-width: 74ch;
+}
+
+p {
+  margin-bottom: 1.15rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.025em;
+  line-height: 1.18;
+}
+
+h1 {
+  font-size: clamp(2.25rem, 5vw, 3.65rem);
+}
+
+h2 {
+  margin-top: 2.8rem;
+  font-size: clamp(1.65rem, 3vw, 2.25rem);
+}
+
+h3 {
+  margin-top: 2rem;
+  font-size: clamp(1.25rem, 2vw, 1.55rem);
+}
+
+a {
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 0.08em;
+}
+
+a:hover {
+  text-decoration-thickness: 0.12em;
+}
+
+.navbar {
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.10), 0 8px 28px rgba(7, 37, 35, 0.16);
+  backdrop-filter: blur(16px);
+}
+
+.navbar-brand {
+  font-family: $headings-font-family;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover {
+  text-decoration: none;
+}
+
+.quarto-announcement-content {
+  font-size: 0.93rem;
+  letter-spacing: 0.005em;
+}
+
+#quarto-content {
+  min-height: 68vh;
+}
+
+/* The home page supplies its own accessible H1 inside the hero. */
+.home-page #title-block-header {
+  display: none;
+}
+
+.quarto-title-block .quarto-title-banner {
+  background: linear-gradient(135deg, var(--course-primary-deep), #1b5a55);
+  color: #fff;
+}
+
+.quarto-title .title {
+  max-width: 18ch;
+}
+
+.quarto-title-meta {
+  font-size: 0.9rem;
+}
+
+#TOC {
+  font-size: 0.84rem;
+  line-height: 1.45;
+}
+
+#TOC .active {
+  font-weight: 700;
+}
+
+.sidebar nav[role="doc-toc"] > h2 {
+  font-family: $font-family-sans-serif;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* The home uses Quarto's custom page layout. Quarto also applies a
+   high-specificity `#quarto-content > *` rule, so the direct-child selectors
+   below deliberately include the content id. This prevents Quarto's default
+   grid and padding from narrowing or offsetting landing-page sections. */
+.home-page #quarto-content.page-layout-custom {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  overflow-x: clip;
+}
+
+.home-page #quarto-content > * {
+  box-sizing: border-box;
+}
+
+.hero {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  color: #f7fbfa;
+  background:
+    radial-gradient(circle at 82% 24%, rgba(255, 255, 255, 0.13), transparent 24rem),
+    radial-gradient(circle at 12% 88%, rgba(239, 154, 126, 0.20), transparent 22rem),
+    linear-gradient(135deg, #0e3936 0%, #176b66 60%, #286f62 100%);
+}
+
+.home-page #quarto-content > .hero {
+  padding: clamp(4.5rem, 9vw, 8rem) max(1.25rem, calc((100% - 1180px) / 2));
+}
+
+.hero::after {
+  position: absolute;
+  inset: auto -5% -7rem;
+  height: 11rem;
+  content: "";
+  background: var(--bs-body-bg);
+  border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(260px, 0.65fr);
+  gap: clamp(2.5rem, 6vw, 6rem);
+  align-items: center;
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.hero-copy h1 {
+  max-width: 18ch;
+  margin: 0.65rem 0 1.35rem;
+  color: #fff;
+  font-size: clamp(2.7rem, 6.4vw, 5.2rem);
+  line-height: 0.98;
+}
+
+.hero-copy .lead {
+  max-width: 64ch;
+  margin-bottom: 1.8rem;
+  color: rgba(255, 255, 255, 0.88);
+  font-size: clamp(1.05rem, 1.8vw, 1.28rem);
+  line-height: 1.6;
+}
+
+.eyebrow {
+  display: inline-flex;
+  gap: 0.45rem;
+  align-items: center;
+  padding: 0.4rem 0.75rem;
+  color: #fff;
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.095em;
+  text-transform: uppercase;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  border-radius: 999px;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin-bottom: 2rem;
+}
+
+.hero .btn {
+  padding: 0.78rem 1.15rem;
+  font-weight: 750;
+  text-decoration: none;
+  border-radius: 999px;
+}
+
+.hero .btn-primary {
+  color: #123f3c;
+  background: #fff;
+  border-color: #fff;
+}
+
+.hero .btn-primary:hover {
+  color: #123f3c;
+  background: #edf7f5;
+  border-color: #edf7f5;
+  transform: translateY(-1px);
+}
+
+.hero .btn-outline-light:hover {
+  color: #123f3c;
+}
+
+.hero-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem 1.25rem;
+  color: rgba(255, 255, 255, 0.84);
+  font-size: 0.92rem;
+}
+
+.hero-meta span {
+  display: inline-flex;
+  gap: 0.4rem;
+  align-items: center;
+}
+
+.hero-visual {
+  position: relative;
+  display: grid;
+  place-items: center;
+  aspect-ratio: 1;
+  min-height: 300px;
+}
+
+.hero-orb {
+  position: relative;
+  display: grid;
+  width: min(25vw, 300px);
+  min-width: 230px;
+  aspect-ratio: 1;
+  place-items: center;
+  background: rgba(255, 255, 255, 0.10);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 50%;
+  box-shadow: 0 30px 80px rgba(3, 24, 22, 0.30), inset 0 0 50px rgba(255, 255, 255, 0.08);
+}
+
+.hero-orb::before,
+.hero-orb::after {
+  position: absolute;
+  content: "";
+  border: 1px solid rgba(255, 255, 255, 0.20);
+  border-radius: 50%;
+}
+
+.hero-orb::before { inset: 12%; }
+.hero-orb::after { inset: 26%; }
+
+.hero-orb i {
+  font-size: clamp(4rem, 9vw, 7rem);
+  filter: drop-shadow(0 10px 28px rgba(0, 0, 0, 0.18));
+}
+
+.home-page #quarto-content > .home-section {
+  width: min(100%, 1180px);
+  margin-inline: auto;
+  padding: clamp(3rem, 6vw, 5.5rem) clamp(1.25rem, 4vw, 2rem);
+}
+
+.home-page #quarto-content > .home-section--narrow {
+  width: min(100%, 960px);
+}
+
+/* A heading attribute in Pandoc is copied to the generated section wrapper.
+   Target the heading element explicitly, never the wrapper, so the paragraphs
+   and card grids retain the full width of their section. */
+.home-section > section {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+}
+
+.home-section--narrow > p,
+.home-section--narrow > section > p {
+  max-width: 72ch;
+}
+
+.section-kicker {
+  margin-bottom: 0.4rem;
+  color: var(--course-primary);
+  font-size: 0.78rem;
+  font-weight: 850;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.home-section > h2,
+.home-section > section > h2 {
+  max-width: 22ch;
+  margin: 0 0 1rem;
+}
+
+.section-intro {
+  max-width: 68ch;
+  color: var(--course-muted);
+  font-size: 1.08rem;
+}
+
+.stats-grid,
+.feature-grid,
+.info-grid,
+.social-grid,
+.material-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.stat-card,
+.feature-card,
+.info-card,
+.social-card,
+.material-card {
+  height: 100%;
+  padding: 1.4rem;
+  background: var(--course-surface);
+  border: 1px solid var(--course-line);
+  border-radius: 1.15rem;
+  box-shadow: var(--course-shadow-soft);
+}
+
+.stat-value {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: var(--course-ink);
+  font-family: $headings-font-family;
+  font-size: 2rem;
+  font-weight: 750;
+  line-height: 1;
+}
+
+.stat-label,
+.card-note {
+  color: var(--course-muted);
+  font-size: 0.92rem;
+}
+
+.feature-card i,
+.info-card i,
+.social-card i,
+.material-card i {
+  display: inline-grid;
+  width: 2.8rem;
+  height: 2.8rem;
+  margin-bottom: 1rem;
+  color: var(--course-primary);
+  font-size: 1.25rem;
+  background: var(--course-primary-soft);
+  border-radius: 0.8rem;
+  place-items: center;
+}
+
+.feature-card h3,
+.info-card h3,
+.social-card h3,
+.material-card h3 {
+  margin: 0 0 0.55rem;
+  font-family: $font-family-sans-serif;
+  font-size: 1.08rem;
+  font-weight: 800;
+  letter-spacing: -0.015em;
+}
+
+.feature-card p,
+.info-card p,
+.social-card p,
+.material-card p {
+  margin: 0;
+  color: var(--course-muted);
+  font-size: 0.95rem;
+}
+
+.home-page #quarto-content > .cta-panel {
+  display: grid;
+  width: calc(100% - 2.5rem);
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 2rem;
+  align-items: center;
+  max-width: 1080px;
+  margin: 2rem auto 5rem;
+  padding: clamp(1.6rem, 4vw, 2.6rem);
+  color: #fff;
+  background: linear-gradient(135deg, #b65c43, #8d4231);
+  border-radius: 1.4rem;
+  box-shadow: 0 22px 55px rgba(112, 52, 38, 0.24);
+}
+
+.cta-panel h2 {
+  margin: 0 0 0.5rem;
+  color: #fff;
+  font-size: clamp(1.55rem, 3vw, 2.2rem);
+}
+
+.cta-panel p {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.88);
+}
+
+.cta-panel .btn {
+  white-space: nowrap;
+  color: #8d4231;
+  font-weight: 800;
+  text-decoration: none;
+  background: #fff;
+  border-color: #fff;
+  border-radius: 999px;
+}
+
+.home-page #quarto-content > .partner-strip {
+  display: flex;
+  width: min(calc(100% - 2.5rem), 1080px);
+  margin: 0 auto 4rem;
+  padding: clamp(1.25rem, 3vw, 2rem);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: var(--course-surface-soft);
+  border: 1px solid var(--course-line);
+  border-radius: 1.4rem;
+}
+
+.partner-strip > p {
+  display: flex;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  justify-content: center;
+}
+
+.partner-strip picture {
+  display: block;
+  width: min(100%, 280px);
+  margin-inline: auto;
+}
+
+.partner-strip img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.45rem;
+  box-shadow: var(--course-shadow-soft);
+}
+
+/* The programme has no margin TOC. Remove Quarto's asymmetric article
+   grid for this page and centre one explicit reading column. */
+.program-page #quarto-content.page-layout-full {
+  display: block;
+  width: 100%;
+  max-width: none;
+  padding: 0;
+}
+
+.program-page #quarto-content > main.content {
+  box-sizing: border-box;
+  width: min(calc(100% - 2.5rem), 1040px);
+  max-width: 1040px;
+  margin-inline: auto;
+  padding-top: clamp(2.5rem, 5vw, 4.5rem);
+}
+
+.program-page .quarto-title-block,
+.program-page #quarto-document-content {
+  width: 100%;
+}
+
+.page-lead {
+  max-width: 68ch;
+  margin-bottom: 2rem;
+  color: var(--course-muted);
+  font-size: 1.15rem;
+}
+
+.fact-band {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.fact {
+  padding: 1rem 1.05rem;
+  background: var(--course-surface-soft);
+  border: 1px solid var(--course-line);
+  border-radius: 0.9rem;
+}
+
+.fact strong {
+  display: block;
+  margin-bottom: 0.2rem;
+  color: var(--course-ink);
+  font-size: 0.94rem;
+}
+
+.fact span {
+  color: var(--course-muted);
+  font-size: 0.88rem;
+}
+
+.notice-card {
+  margin: 2rem 0;
+  padding: 1.4rem 1.5rem;
+  background: var(--course-accent-soft);
+  border: 1px solid color-mix(in srgb, var(--course-accent), transparent 65%);
+  border-left: 5px solid var(--course-accent);
+  border-radius: 0.9rem;
+}
+
+.notice-card h2,
+.notice-card h3 {
+  margin-top: 0;
+}
+
+.session {
+  position: relative;
+  margin: 2rem 0 3rem;
+  padding: clamp(1.25rem, 3vw, 2rem);
+  background: var(--course-surface);
+  border: 1px solid var(--course-line);
+  border-radius: 1.25rem;
+  box-shadow: var(--course-shadow-soft);
+}
+
+.session::before {
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 5px;
+  content: "";
+  background: linear-gradient(var(--course-primary), var(--course-accent));
+  border-radius: 1.25rem 0 0 1.25rem;
+}
+
+.session h2 {
+  margin: 0.4rem 0 0.35rem;
+  font-size: clamp(1.55rem, 3vw, 2.1rem);
+}
+
+.session h3 {
+  margin-top: 1.55rem;
+  font-family: $font-family-sans-serif;
+  font-size: 1.2rem;
+  font-weight: 800;
+  letter-spacing: -0.015em;
+}
+
+.session-date {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.32rem 0.65rem;
+  color: var(--course-primary);
+  font-size: 0.74rem;
+  font-weight: 850;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  background: var(--course-primary-soft);
+  border-radius: 999px;
+}
+
+.session-place {
+  display: inline-flex;
+  gap: 0.4rem;
+  align-items: center;
+  margin-bottom: 0.7rem;
+  color: var(--course-muted);
+  font-size: 0.92rem;
+}
+
+.session-speaker {
+  margin: 0.4rem 0 0.8rem;
+  color: var(--course-ink);
+  font-weight: 750;
+}
+
+.teacher-card {
+  margin: 1.3rem 0;
+  padding: clamp(1.2rem, 3vw, 1.8rem);
+  background: var(--course-surface);
+  border: 1px solid var(--course-line);
+  border-radius: 1.15rem;
+  box-shadow: var(--course-shadow-soft);
+}
+
+.teacher-card h2 {
+  margin-top: 0;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid var(--course-line);
+}
+
+.teacher-card h2 a {
+  text-decoration: none;
+}
+
+.teacher-card h2 a:hover {
+  text-decoration: underline;
+}
+
+.faq-intro {
+  margin-bottom: 2rem;
+}
+
+.faq-item {
+  margin: 1rem 0;
+  padding: 1.25rem 1.4rem;
+  background: var(--course-surface);
+  border: 1px solid var(--course-line);
+  border-radius: 1rem;
+  box-shadow: var(--course-shadow-soft);
+}
+
+.faq-item h2 {
+  margin: 0 0 0.9rem;
+  font-family: $font-family-sans-serif;
+  font-size: 1.15rem;
+  font-weight: 800;
+  letter-spacing: -0.015em;
+}
+
+.faq-item > :last-child {
+  margin-bottom: 0;
+}
+
+.interview-question {
+  margin: 1.7rem 0;
+  padding: 1.25rem 1.4rem;
+  background: var(--course-surface);
+  border: 1px solid var(--course-line);
+  border-radius: 1rem;
+}
+
+.interview-question h3 {
+  margin-top: 0;
+  font-family: $font-family-sans-serif;
+  font-size: 1.15rem;
+  font-weight: 800;
+  letter-spacing: -0.015em;
+}
+
+.social-card a,
+.material-card a {
+  font-weight: 750;
+}
+
+.callout {
+  border-radius: 1rem;
+  box-shadow: var(--course-shadow-soft);
+}
+
+.page-footer {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-size: 0.86rem;
+  background: var(--course-surface-soft);
+}
+
+.page-footer p {
+  margin-bottom: 0;
+}
+
+.quarto-navigation-tool {
+  opacity: 0.9;
+}
+
+.btn {
+  transition: transform 160ms ease, box-shadow 160ms ease, background-color 160ms ease;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+}
+
+.btn:focus-visible,
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--course-accent), white 25%);
+  outline-offset: 3px;
+}
+
+@media (max-width: 991.98px) {
+  .hero-inner {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-visual {
+    display: none;
+  }
+
+  .stats-grid,
+  .feature-grid,
+  .info-grid,
+  .social-grid,
+  .material-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .fact-band {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 575.98px) {
+  .home-page #quarto-content > .hero {
+    padding-top: 3.4rem;
+  }
+
+  .hero-copy h1 {
+    font-size: clamp(2.45rem, 13vw, 3.5rem);
+  }
+
+  .hero-actions {
+    flex-direction: column;
+  }
+
+  .hero-actions .btn {
+    width: 100%;
+  }
+
+  .stats-grid,
+  .feature-grid,
+  .info-grid,
+  .social-grid,
+  .material-grid,
+  .fact-band {
+    grid-template-columns: 1fr;
+  }
+
+  .home-page #quarto-content > .cta-panel {
+    grid-template-columns: 1fr;
+    margin-right: 1rem;
+    margin-left: 1rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}
+
+@media print {
+  .navbar,
+  .quarto-announcement,
+  .page-navigation,
+  .back-to-top-navigation,
+  .hero-actions,
+  .hero-visual {
+    display: none !important;
+  }
+
+  .hero {
+    margin: 0;
+    padding: 2rem 0;
+    color: #000;
+    background: transparent;
+  }
+
+  .hero-copy h1,
+  .hero-copy .lead,
+  .hero-meta {
+    color: #000;
+  }
+
+  .session,
+  .teacher-card,
+  .faq-item {
+    break-inside: avoid;
+    box-shadow: none;
+  }
+}

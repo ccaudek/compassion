@@ -1,43 +1,47 @@
 ---
 title: "Programma degli incontri"
-format: html 
-toc: true
-toc-location: left
+description: "Calendario, sedi, docenti, obiettivi e contenuti dei sei incontri dell'edizione 2026/2027."
+toc: false
+page-layout: full
+body-classes: program-page
 ---
 
+<p class="page-lead">Sei incontri tra febbraio e aprile 2027, alternando lezioni online presso l’Università di Firenze e fine settimana residenziali all’Istituto Lama Tzong Khapa di Pomaia.</p>
 
-## Prima lezione: 26-28 Febbraio 2027
+::: {.session}
+<div class="session-date">Primo incontro · 26–28 febbraio 2027</div>
 
-@ [Istituto Lama Tzong Khapa di Pomaia](https://www.iltk.org)
+## Gli studi psicologici e le pratiche buddhiste di meditazione e compassione · Parte I
 
-### Gli studi psicologici e le pratiche buddiste di meditazione e compassione (I parte)
+<div class="session-place"><i class="bi bi-geo-alt" aria-hidden="true"></i> <a href="https://www.iltk.org">Istituto Lama Tzong Khapa di Pomaia</a></div>
 
-**prof. Claudio Sica**
+### Fondamenti concettuali e pratiche contemplative
 
-- **Obiettivi** Fornire i fondamenti concettuali relativi al funzionamento della mente nella tradizione buddhista. Introdurre alle pratiche contemplative in termini teorico esperienziali.
-- **Contenuti** Introduzione ai contenuti del Corso, con focus sul rapporto tra Psicologia e Buddhismo. Presentazione di alcuni principi buddhisti come: le 4 nobili verità, ottuplice sentiero, i tre tipi di sofferenza. Presentazione dei corsisti. 
+<p class="session-speaker">Prof. Claudio Sica</p>
+
+- **Obiettivi:** fornire i fondamenti concettuali relativi al funzionamento della mente nella tradizione buddhista. Introdurre alle pratiche contemplative in termini teorico-esperienziali.
+- **Contenuti:** introduzione ai contenuti del Corso, con focus sul rapporto tra Psicologia e Buddhismo. Presentazione di alcuni principi buddhisti come le quattro nobili verità, l’ottuplice sentiero e i tre tipi di sofferenza. Presentazione dei corsisti.
 
 ### Il ruolo della concentrazione e della consapevolezza nella pratica meditativa
 
-**Dott. Joan Dombon**
+<p class="session-speaker">Dott. Joan Dombon</p>
 
-- **Obiettivi** Sperimentare gli elementi fondamentali della pratica meditativa: Attenzione sostenuta, consapevolezza, motivazione. 
-- **Contenuti**  Componenti principali della meditazione: attenzione sostenuta,  consapevolezza, cautela. L’importanza dell’atteggiamento basilare: gentilezza, accoglienza, umiltà. Focus sul significato di motivazione e le sue caratteristiche. Periodi pratici di meditazione guidata sono alternati con spiegazioni teoriche e discussione.
+- **Obiettivi:** sperimentare gli elementi fondamentali della pratica meditativa: attenzione sostenuta, consapevolezza e motivazione.
+- **Contenuti:** componenti principali della meditazione: attenzione sostenuta, consapevolezza e cautela. L’importanza dell’atteggiamento basilare: gentilezza, accoglienza e umiltà. Focus sul significato di motivazione e sulle sue caratteristiche. Periodi pratici di meditazione guidata sono alternati con spiegazioni teoriche e discussione.
+:::
 
+::: {.session}
+<div class="session-date">Secondo incontro · 6 marzo 2027</div>
 
-## Seconda lezione: 6 Marzo 2027
+## La meditazione nel Buddhismo Mahāyāna: oltre il rilassamento
 
-@ UNIFI
+<div class="session-place"><i class="bi bi-laptop" aria-hidden="true"></i> UNIFI · online</div>
 
+<p class="session-speaker"><a href="https://www.unifi.it/p-doc2-0-0-A-3f2b342938302a-0.html">Prof. Corrado Caudek</a> · <a href="https://dsv.units.it/it/dipartimento/persone/assegnisti-di-ricerca?q=it/node/62082">Ilaria Colpizzi, PhD</a></p>
 
-## La meditazione nel buddhismo Mahāyāna: oltre il rilassamento — saggezza, compassione e trasformazione
- 
-[**Prof. Corrado Caudek**](https://www.unifi.it/p-doc2-0-0-A-3f2b342938302a-0.html)
+### Obiettivi
 
-[**Ilaria Colpizzi, PhD**](https://dsv.units.it/it/dipartimento/persone/assegnisti-di-ricerca?q=it/node/62082)
-
- 
-- **Obiettivi** Esaminare criticamente la diffusione della mindfulness nelle culture occidentali, distinguendo tra le versioni secolarizzate — spesso ridotte a tecniche di gestione dello stress o di ottimizzazione della performance — e il contesto teorico, etico e pratico della tradizione buddhista d'origine, all'interno del quale la meditazione acquista un significato radicalmente diverso.
+Esaminare criticamente la diffusione della mindfulness nelle culture occidentali, distinguendo tra le versioni secolarizzate — spesso ridotte a tecniche di gestione dello stress o di ottimizzazione della performance — e il contesto teorico, etico e pratico della tradizione buddhista d'origine, all'interno del quale la meditazione acquista un significato radicalmente diverso.
 
 Introdurre il quadro dottrinale Mahāyāna in cui la meditazione si colloca come una delle sei perfezioni (pāramitā), inscindibile dalla pratica della generosità, della disciplina morale e della saggezza. In questo contesto, il bodhicitta — la mente orientata al risveglio per il beneficio di tutti gli esseri senzienti — costituisce la motivazione fondante dell'intero percorso contemplativo, e non un semplice stato di benessere individuale.
 
@@ -45,94 +49,130 @@ Familiarizzare con pratiche specifiche della tradizione contemplativa Mahāyāna
 
 Riflettere sulle implicazioni di questa prospettiva per chi opera nelle professioni d'aiuto: la meditazione autentica non è una tecnica da aggiungere al proprio repertorio, ma un percorso di trasformazione della motivazione e dell'orientamento verso l'altro. Coltivare la compassione come qualità stabile — anziché come risposta emotiva estemporanea — modifica in profondità la qualità della presenza del clinico, la sua capacità di reggere la sofferenza altrui senza esserne sopraffatto, e la natura stessa della relazione terapeutica.
 
-**Contenuti:** 
+### Contenuti
 
-1. La mindfulness decontestualizzata
-2. Il contesto teorico: meditazione come percorso
-3. Pratiche specifiche e il loro significato
-4. Implicazioni per le professioni di aiuto
-5. La meditazione del respiro nel Buddhismo delle origini
-6. Meditazione come trasformazione, non come tecnica
+1. La mindfulness decontestualizzata.
+2. Il contesto teorico: meditazione come percorso.
+3. Pratiche specifiche e il loro significato.
+4. Implicazioni per le professioni di aiuto.
+5. La meditazione del respiro nel Buddhismo delle origini.
+6. Meditazione come trasformazione, non come tecnica.
+:::
 
+::: {.session}
+<div class="session-date">Terzo incontro · 13 marzo 2027</div>
 
-## Terza lezione: 13 Marzo 2027
+## Le pratiche contemplative nella relazione di aiuto · Parte I
 
-@ UNIFI
+<div class="session-place"><i class="bi bi-laptop" aria-hidden="true"></i> UNIFI · online</div>
 
-### Le pratiche contemplative nella relazione di aiuto (Parte Prima)
+**Obiettivi:** consentire l’applicazione del modello fondato sulle qualità relazionali nella ristrutturazione cognitivo–emozionale e nel lavoro con gli stati emotivi.
 
-**Obiettivi** Consentire l’applicazione del modello fondato sulle qualità relazionali nella ristrutturazione cognitivo–emozionale e nel lavoro con gli stati emotivi.
+### Acceptance and Commitment Therapy e ricerca di senso
 
-**Contenuti** 
+<p class="session-speaker">Dott. Silverio Zucchi</p>
 
-**Dott. Silverio Zucchi** *L’Acceptance and Commitment Therapy (ACT) e la ricerca di senso*  1. L’ubiquità della sofferenza umana, le sue attuali manifestazioni e la ricerca di senso. 2. Il modello della flessibilità psicologica nell’ACT. 3. La postura del clinico e il lavoro sui valori. 4. Qualità di una conversazione efficace sui valori. 5. Esercitazioni sui valori.
+1. L’ubiquità della sofferenza umana, le sue attuali manifestazioni e la ricerca di senso.
+2. Il modello della flessibilità psicologica nell’ACT.
+3. La postura del clinico e il lavoro sui valori.
+4. Qualità di una conversazione efficace sui valori.
+5. Esercitazioni sui valori.
 
-**Dott. Giovanni Zucchi** *Le qualità costruttive che maturano attraverso la meditazione* 1. L’attitudine meditativa nella relazione. 2. Le condizioni facilitanti la costruzione di una relazione efficace. 3. L’ascolto profondo e il rispecchiamento.
+### Le qualità costruttive che maturano attraverso la meditazione
 
-## Quarta lezione: 19-21 Marzo 2027
+<p class="session-speaker">Dott. Giovanni Zucchi</p>
 
-@ Istituto Lama Tzong Khapa di Pomaia
+1. L’attitudine meditativa nella relazione.
+2. Le condizioni facilitanti la costruzione di una relazione efficace.
+3. L’ascolto profondo e il rispecchiamento.
+:::
 
-### Le pratiche contemplative nella relazione di aiuto (Parte Seconda)
+::: {.session}
+<div class="session-date">Quarto incontro · 19–21 marzo 2027</div>
 
-**Obiettivi** Comprendere compassionevolmente il funzionamento umano e sviluppare la qualità della compassione nella relazione di aiuto e nella propria vita quotidiana.
+## Le pratiche contemplative nella relazione di aiuto · Parte II
 
-**Contenuti**
+<div class="session-place"><i class="bi bi-geo-alt" aria-hidden="true"></i> Istituto Lama Tzong Khapa di Pomaia</div>
 
-**Dott. Joan Dombon** *Approfondimento di tematiche buddhiste*
+**Obiettivi:** comprendere compassionevolmente il funzionamento umano e sviluppare la qualità della compassione nella relazione di aiuto e nella propria vita quotidiana.
 
-**Dott.ssa Elisa Ruggeri**  *Sviluppare disponibilità e accettazione -- risorse per il clinico nella relazione d’aiuto e per il paziente* 
+### Approfondimento di tematiche buddhiste
 
-1. Perché disponibilità e accettazione? 
-2. L’evitamento esperienziale. 
-3. Creare un’apertura alla disponibilità. 
-4. L’atteggiamento terapeutico, la cura di se’ e degli altri.
+<p class="session-speaker">Dott. Joan Dombon</p>
 
-**Dott. Massimo Gusmano** *La compassione e le pratiche che aiutano a svilupparla dal punto di vista del buddhismo* 
+### Sviluppare disponibilità e accettazione
 
-1. Cosa intende il buddhismo per compassione? 
-2. La relazione con gli altri Brahma Vihara e la coltivazione della parte etica. 
-3. Pratiche di meditazione per sviluppare la compassione e aprire il cuore. 
+<p class="session-speaker">Dott.ssa Elisa Ruggeri</p>
+
+Risorse per il clinico nella relazione d’aiuto e per il paziente:
+
+1. Perché disponibilità e accettazione?
+2. L’evitamento esperienziale.
+3. Creare un’apertura alla disponibilità.
+4. L’atteggiamento terapeutico, la cura di sé e degli altri.
+
+### La compassione dal punto di vista del Buddhismo
+
+<p class="session-speaker">Dott. Massimo Gusmano</p>
+
+1. Cosa intende il Buddhismo per compassione?
+2. La relazione con gli altri, Brahma Vihara e coltivazione della parte etica.
+3. Pratiche di meditazione per sviluppare la compassione e aprire il cuore.
 4. Portare la compassione nella relazione di cura.
 
-**Dott. Giovanni Zucchi** *Principi di Compassion-Focused Therapy (CFT) e Acceptance and Commitment Therapy (ACT)*  
+### Principi di Compassion-Focused Therapy e ACT
 
-1. Il modello della Compassion Focused Therapy. 
-2. Mente evoluta e comprensione compassionevole: uno sguardo saggio sull’essere umano, sui suoi limiti e sulla sua evoluzione. 
-3. Le tecniche di self compassion e la maturazione delle abilità di cura di sé e degli altri. 4. Gli ostacoli alla compassione: evitamento, giudizio e inflessibilità psicologica. 
-5. Il lavoro personale tra disidentificazione e compassione. 
+<p class="session-speaker">Dott. Giovanni Zucchi</p>
 
-## Quinta lezione: 3 Aprile 2027 
+1. Il modello della Compassion Focused Therapy.
+2. Mente evoluta e comprensione compassionevole: uno sguardo saggio sull’essere umano, sui suoi limiti e sulla sua evoluzione.
+3. Le tecniche di self-compassion e la maturazione delle abilità di cura di sé e degli altri.
+4. Gli ostacoli alla compassione: evitamento, giudizio e inflessibilità psicologica.
+5. Il lavoro personale tra disidentificazione e compassione.
+:::
 
-@ UNIFI
+::: {.session}
+<div class="session-date">Quinto incontro · 3 aprile 2027</div>
 
-### Il processo emotivo e la correlazione mente/corpo
+## Il processo emotivo e la correlazione mente/corpo
 
-- Dott. Massimo Gusmano 
-- Dott.ssa Elisa Ruggeri
+<div class="session-place"><i class="bi bi-laptop" aria-hidden="true"></i> UNIFI · online</div>
 
-**Obiettivi** Un'introduzione alla psicologia delle emozioni e al suo ruolo all’interno della comprensione di sé e dell’altro. Approfondire il ruolo e la funzione delle pratiche contemplative nella relazione con le emozioni.
+<p class="session-speaker">Dott. Massimo Gusmano · Dott.ssa Elisa Ruggeri</p>
 
-**Contenuti** 
+**Obiettivi:** un'introduzione alla psicologia delle emozioni e al suo ruolo all’interno della comprensione di sé e dell’altro. Approfondire il ruolo e la funzione delle pratiche contemplative nella relazione con le emozioni.
 
-**Dott.ssa Elisa Ruggeri** *Emozione e cognizione nella psicologia contemporanea* Il processo fondamentale del decentraggio o disidentificazione nella gestione emozionale.
+### Emozione e cognizione nella psicologia contemporanea
 
-**Dott. Massimo Gusmano** *Le emozione secondo la psicologia buddhista ed il ruolo delle pratiche di meditazione* La reattività emotiva e la trasformazione delle emozioni.  Lo sviluppo degli stati emotivi costruttivi: benevolenza, compassione, gioia altruistica ed equanimità. 
+<p class="session-speaker">Dott.ssa Elisa Ruggeri</p>
 
-## Sesta lezione: 9-11 Aprile 2027
+Il processo fondamentale del decentraggio o disidentificazione nella gestione emozionale.
 
-@ Istituto Lama Tzong Khapa di Pomaia
+### Le emozioni secondo la psicologia buddhista
 
-### Gli studi psicologici e le pratiche buddiste di meditazione e compassione (Parte Seconda)
+<p class="session-speaker">Dott. Massimo Gusmano</p>
 
-**Obiettivi e contenuti** Relazioni tra pratiche buddiste e psicologia.
+La reattività emotiva e la trasformazione delle emozioni. Lo sviluppo degli stati emotivi costruttivi: benevolenza, compassione, gioia altruistica ed equanimità.
+:::
 
-Prof. Claudio Sica
+::: {.session}
+<div class="session-date">Sesto incontro · 9–11 aprile 2027</div>
 
-**Obiettivi e contenuti** La compassione al lavoro: pratiche professionali.
+## Gli studi psicologici e le pratiche buddhiste · Parte II
 
-[**Dott.ssa Marcella Langella**](https://www.youtube.com/@marcellalangella5106?app=desktop) *La compassione al lavoro: pratiche professionali* Implicazioni sul piano professionale.
+<div class="session-place"><i class="bi bi-geo-alt" aria-hidden="true"></i> Istituto Lama Tzong Khapa di Pomaia</div>
 
-### Presentazioni dei corsisti 
+### Relazioni tra pratiche buddhiste e psicologia
 
+<p class="session-speaker">Prof. Claudio Sica</p>
 
+**Obiettivi e contenuti:** relazioni tra pratiche buddhiste e psicologia.
+
+### La compassione al lavoro: pratiche professionali
+
+<p class="session-speaker"><a href="https://www.youtube.com/@marcellalangella5106?app=desktop">Dott.ssa Marcella Langella</a></p>
+
+**Obiettivi e contenuti:** la compassione al lavoro: pratiche professionali e implicazioni sul piano professionale.
+
+### Presentazioni dei corsisti
+:::

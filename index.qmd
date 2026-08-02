@@ -1,17 +1,115 @@
 ---
-title: "Corso di Perfezionamento Post-Laurea"
+title: "Meditazione, Compassione e Gestione Emozionale"
+title-block-style: none
+body-classes: home-page
+toc: false
+page-layout: custom
+description: "Corso di Perfezionamento Post-Laurea in Meditazione, Compassione e Gestione Emozionale per le Professioni di Aiuto."
 image: "logo.jpeg"
-execute: 
-  echo: false
-  warning: false
-about:
-  template: trestles
-  image-shape: round
 ---
 
-### Meditazione, Compassione e Gestione Emozionale per le Professioni di Aiuto
+::: {.hero}
+::: {.hero-inner}
+::: {.hero-copy}
+<div class="eyebrow"><i class="bi bi-mortarboard" aria-hidden="true"></i> Corso di perfezionamento post-laurea</div>
 
-Il Corso intende proporre un modello della mente e del funzionamento emotivo che ha origine nella tradizione della psicologia buddista e vuole offrire strumenti metodologici e operativi per la pratica professionale e clinica dello psicologo e dell’operatore sanitario.
+# Meditazione, Compassione e Gestione Emozionale
 
-![](ILTK-Logo.jpg){width=50%}
+<p class="lead">Una formazione teorica ed esperienziale per integrare pratiche contemplative, psicologia e competenze relazionali nelle professioni di aiuto.</p>
 
+::: {.hero-actions}
+[Scopri il corso](intro.qmd){.btn .btn-primary .btn-lg}
+[Consulta il programma](programma.qmd){.btn .btn-outline-light .btn-lg}
+:::
+
+::: {.hero-meta}
+<span><i class="bi bi-building" aria-hidden="true"></i> Università di Firenze + ILTK</span>
+<span><i class="bi bi-calendar3" aria-hidden="true"></i> Febbraio–aprile 2027</span>
+<span><i class="bi bi-people" aria-hidden="true"></i> 25 posti</span>
+:::
+:::
+
+::: {.hero-visual aria-hidden="true"}
+<div class="hero-orb"><i class="bi bi-heart-pulse"></i></div>
+:::
+:::
+:::
+
+::: {.home-section .home-section--narrow}
+<div class="section-kicker">Il progetto formativo</div>
+
+## Prendersi cura con maggiore consapevolezza
+
+Il Corso propone un modello della mente e del funzionamento emotivo che ha origine nella tradizione della psicologia buddhista e offre strumenti metodologici e operativi per la pratica professionale e clinica dello psicologo e dell’operatore sanitario.
+
+L’integrazione tra esperienze contemplative e clinica orientata alla Mindfulness sostiene una comprensione più profonda degli stati emotivi e delle modificazioni della coscienza che si manifestano sia nell’operatore sia nell’utente.
+:::
+
+::: {.home-section}
+<div class="section-kicker">In sintesi</div>
+
+## Un percorso intensivo, concreto e relazionale
+
+::: {.stats-grid}
+::: {.stat-card}
+<span class="stat-value">6</span>
+<span class="stat-label">incontri complessivi</span>
+:::
+::: {.stat-card}
+<span class="stat-value">3</span>
+<span class="stat-label">fine settimana residenziali a Pomaia</span>
+:::
+::: {.stat-card}
+<span class="stat-value">25</span>
+<span class="stat-label">posti disponibili</span>
+:::
+:::
+
+::: {.feature-grid}
+::: {.feature-card}
+<i class="bi bi-journal-text" aria-hidden="true"></i>
+
+### Fondamenti teorici
+Psicologia buddhista, Mindfulness, processi emotivi e modelli psicologici contemporanei.
+:::
+::: {.feature-card}
+<i class="bi bi-flower1" aria-hidden="true"></i>
+
+### Pratica esperienziale
+Meditazioni guidate, esercizi contemplativi e lavoro diretto sulla consapevolezza.
+:::
+::: {.feature-card}
+<i class="bi bi-people" aria-hidden="true"></i>
+
+### Dimensione relazionale
+Discussioni di gruppo e strumenti per una presenza empatica, equilibrata ed efficace.
+:::
+:::
+:::
+
+::: {.home-section .home-section--narrow}
+<div class="section-kicker">A chi si rivolge</div>
+
+## Per le professioni fondate sulla relazione
+
+Il corso è rivolto a persone interessate a migliorare le proprie competenze nell’ambito delle relazioni di aiuto e delle capacità empatiche. La conoscenza dei processi emotivi e della metodologia di gestione delle emozioni viene sviluppata in funzione delle capacità relazionali individuali.
+
+[Leggi obiettivi, metodologia e requisiti](intro.qmd){.btn .btn-outline-primary}
+:::
+
+::: {.partner-strip}
+<picture>
+  <source srcset="images/iltk-logo.webp" type="image/webp">
+  <img src="ILTK-Logo.jpg" class="partner-logo" alt="Logo dell’Istituto Lama Tzong Khapa" width="320" height="458" loading="lazy" decoding="async">
+</picture>
+:::
+
+::: {.cta-panel}
+::: {}
+## Informazioni e iscrizioni
+
+Le domande sono accettate in ordine cronologico fino a esaurimento dei 25 posti disponibili. Scadenza indicata: **15 gennaio 2027**.
+:::
+
+[Scrivi alla segreteria](mailto:perfezionamento.meditazione@dss.unifi.it){.btn .btn-light .btn-lg}
+:::

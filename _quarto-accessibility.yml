@@ -1,0 +1,9 @@
+# Profilo di controllo: eseguire con `quarto preview --profile accessibility`.
+# Non usare questo profilo per la pubblicazione, perché i risultati di axe
+# vengono mostrati nella console del browser.
+format:
+  html:
+    axe:
+      standard: wcag22aa
+      best-practice: true
+      output: console

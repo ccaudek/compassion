@@ -1,79 +1,67 @@
 ---
-title: "Corso di Perfezionamento Post-Laurea" 
-format: html 
+title: "Il corso"
+description: "Informazioni, obiettivi, metodologia, requisiti e modalità di iscrizione al corso."
 toc: true
-toc-location: left
 ---
 
-::: {.callout-tip}  
+<p class="page-lead">Il Corso di Perfezionamento Post-Laurea in <strong>Meditazione, Compassione e Gestione Emozionale per le Professioni di Aiuto</strong> è organizzato nell’ambito della collaborazione tra l’Università degli Studi di Firenze e l’Istituto Lama Tzong Khapa.</p>
 
-#### 🌿 **Meditazione, Compassione e Gestione Emozionale per le Professioni di Aiuto**
+::: {.fact-band}
+::: {.fact}
+**Anno accademico**
+<span>2026/2027 · V edizione</span>
+:::
+::: {.fact}
+**Periodo**
+<span>26 febbraio–aprile 2027</span>
+:::
+::: {.fact}
+**Durata**
+<span>6 incontri, di cui 3 residenziali</span>
+:::
+::: {.fact}
+**Posti**
+<span>25, fino a esaurimento</span>
+:::
+:::
 
-- **🏛 Istituzione:** Università degli Studi di Firenze e Istituto Lama Tzong Khapa 
-- **📅 Anno Accademico:** 2026/2027 (V Edizione)  
-- **🎯 Sede:**  
-  - **💻 Online** (Firenze, tramite piattaforma universitaria)  
-  - **🏡 In presenza** (Istituto Lama Tzong Khapa, Pomaia - Pisa)  
+## Informazioni essenziali
 
-Corso organizzato nell'ambito della collaborazione tra l'Università degli Studi di Firenze e l’Istituto Lama Tzong Khapa.
-:::  
+::: {.info-grid}
+::: {.info-card}
+<i class="bi bi-geo-alt" aria-hidden="true"></i>
 
-::: {.callout-note}  
+### Sedi
+Online tramite piattaforma universitaria e in presenza presso l’Istituto Lama Tzong Khapa di Pomaia, in provincia di Pisa.
+:::
+::: {.info-card}
+<i class="bi bi-person-video3" aria-hidden="true"></i>
 
-#### Informazioni generali sul corso 
+### Modalità didattica
+Lezioni frontali, meditazioni guidate, esercizi esperienziali e discussioni di gruppo.
+:::
+::: {.info-card}
+<i class="bi bi-check2-circle" aria-hidden="true"></i>
 
-- **📌 Posti disponibili:** 25 (iscrizioni aperte fino a esaurimento posti).  
-- **📅 Periodo:** 26 febbraio - aprile 2027. 
-- **⏳ Durata:** 6 incontri totali (di cui 3 residenziali, da venerdì a domenica).  
-- **📍 Sede:**  
-  - **Online** (Firenze, tramite piattaforma universitaria).  
-  - **In presenza** (Istituto Lama Tzong Khapa, Pomaia - Pisa).  
-- **📝 Modalità didattica:**  
-  - Lezioni frontali  
-  - Meditazioni guidate  
-  - Esercizi esperienziali  
-  - Discussioni di gruppo  
+### Frequenza
+Obbligatoria. È consentita al massimo un’assenza per il conseguimento del diploma.
+:::
+:::
 
+- **Lingua:** italiano.
+- **Scadenza delle domande:** 15 gennaio 2027.
+- **Selezione:** ordine cronologico di iscrizione.
+- **Indicazione:** i posti sono limitati; si raccomanda di non posticipare l’iscrizione.
 
-#### Requisiti e certificazioni  
-
-- **🗣 Lingua:** Italiano.  
-- **✅ Frequenza:** Obbligatoria (massimo 1 assenza consentita per il diploma).  
-
-#### Iscrizioni  
-
-- **⏰ Scadenza domande:**  15 gennaio 2027.  
-- **🔍 Selezione:** Ordine cronologico di iscrizione.  
-- **❗ Consiglio:** Posti limitati, si raccomanda di non posticipare l'iscrizione.  
-
-
-#### Contatti.  
-
-Per ulteriori informazioni:  
-📧 [perfezionamento.meditazione@dss.unifi.it](mailto:perfezionamento.meditazione@dss.unifi.it)  
-
-:::  
-
-
-::: {.callout-caution}
-
+::: {.notice-card}
 ## Quota di partecipazione
 
-La quota di partecipazione è di **900 euro**.  
+La quota di partecipazione è di **900 euro**.
 
-#### Costi aggiuntivi:  
-- **Tessera di iscrizione all'Istituto**: 20-30 euro (obbligatoria)  
-- **Alloggio e pranzo presso l'Istituto**: a costi molto contenuti  
+Sono inoltre previsti la tessera di iscrizione all’Istituto, pari a **20–30 euro** e obbligatoria, e i costi di alloggio e pranzo presso l’Istituto, disponibili a cifre contenute.
 
-#### Informazioni utili:  
-- **Pasti**: L'Istituto serve **esclusivamente pasti vegetariani**, con opzioni anche per vegani.  
-- **Destinazione dei fondi**: I ricavi coprono l'affitto dei locali di Pomaia e il compenso dei docenti, mantenendo i costi accessibili.  
-
-#### Nota sulle borse di studio:  
-Purtroppo, **non è possibile offrire borse di studio** per questa edizione.  
-
-:::  
-
+L’Istituto serve esclusivamente pasti vegetariani, con opzioni anche per vegani. I ricavi coprono l’affitto dei locali di Pomaia e il compenso dei docenti, mantenendo i costi accessibili. Per questa edizione non è possibile offrire borse di studio.
+:::
 
 ## Descrizione
 
@@ -89,17 +77,35 @@ Ogni tematica viene approfondita sul piano teorico e sul piano operativo attrave
 
 Il formato del corso avrà un carattere spiccatamente esperienziale in modo da consentire un apprendimento diretto dei contenuti e delle pratiche meditative e interpersonali proposte. Attraverso il potere equilibrante e benefico della presenza mentale e degli stati mentali costruttivi, ogni partecipante avrà la possibilità di sperimentare direttamente il rapporto tra schemi cognitivi, stati emotivi e dimensione corporea.
 
-## Target
+## Destinatari
 
 Il corso è rivolto a persone interessate a migliorare le proprie competenze nell’ambito delle relazioni di aiuto e delle capacità empatiche. In quest’ottica, la conoscenza dei processi emotivi e della metodologia di gestione delle emozioni viene promossa e sviluppata in funzione delle capacità relazionali individuali.
 
-## Social
+## Contatti
 
-Il Corso di Perfezionamento è presente sulle principali piattaforme social. Sulle nostre pagine social puoi trovare curiosità, informazioni sul Corso e testimonianze degli ex-allievi.
+Per ulteriori informazioni: [perfezionamento.meditazione@dss.unifi.it](mailto:perfezionamento.meditazione@dss.unifi.it).
 
-- [Facebook](https://www.facebook.com/profile.php?id=100076063716374)
-- [Instagram](https://www.instagram.com/mindfulness_method?igsh=MTBvZHFlZmhoazN5Ng%3D%3D&utm_source=qr)
-- [LinkedIn](https://www.linkedin.com/in/meditazione-compassione-e-gestione-emozionale-per-le-professioni-di-aiuto-04a972214/)
+## Canali social
 
+Sulle pagine social del Corso sono pubblicate curiosità, informazioni e testimonianze degli ex-allievi.
 
+::: {.social-grid}
+::: {.social-card}
+<i class="bi bi-facebook" aria-hidden="true"></i>
 
+### Facebook
+[Visita la pagina Facebook](https://www.facebook.com/profile.php?id=100076063716374)
+:::
+::: {.social-card}
+<i class="bi bi-instagram" aria-hidden="true"></i>
+
+### Instagram
+[Visita il profilo Instagram](https://www.instagram.com/mindfulness_method)
+:::
+::: {.social-card}
+<i class="bi bi-linkedin" aria-hidden="true"></i>
+
+### LinkedIn
+[Visita il profilo LinkedIn](https://www.linkedin.com/in/meditazione-compassione-e-gestione-emozionale-per-le-professioni-di-aiuto-04a972214/)
+:::
+:::
